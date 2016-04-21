@@ -34,8 +34,6 @@
 #ifndef UIM_QT5_IMMODULE_QUIMPLATFORMINPUTCONTEXT_H
 #define UIM_QT5_IMMODULE_QUIMPLATFORMINPUTCONTEXT_H
 
-#define err
-
 #include <QtGui/QInputMethodEvent>
 
 #include <qpa/qplatforminputcontext.h>

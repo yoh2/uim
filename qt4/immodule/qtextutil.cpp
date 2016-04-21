@@ -70,7 +70,6 @@ QUimTextUtil::~QUimTextUtil()
 {
 }
 
-#undef err
 int
 QUimTextUtil::acquire_text_cb( void *ptr, enum UTextArea text_id,
                                enum UTextOrigin origin,
